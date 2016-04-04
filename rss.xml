@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[yongchoe]]></title>
         <description><![CDATA[yongchoe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yongchoe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 14:30:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 16:07:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yongchoe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Wow! its finally hwere</p>]]></description>
-            <link>undefinedbbe8fde9-0ab0-430d-b293-440f8e11f2fa/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8b722ba-945c-46bc-b8a6-0137a20e39c5.tif">]]></description>
+            <link>https://thegrid.ai/yongchoe/bbe8fde9-0ab0-430d-b293-440f8e11f2fa/index.html</link>
             <guid isPermaLink="false">bbe8fde9-0ab0-430d-b293-440f8e11f2fa</guid>
-            <pubDate>Mon, 04 Apr 2016 14:30:23 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2016 16:06:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
