@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[yongchoe]]></title>
         <description><![CDATA[yongchoe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yongchoe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 16:11:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 16:15:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yongchoe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb99a9a5-0d6a-48d6-a70f-04ecf5db8e43.jpg">]]></description>
+            <link>https://thegrid.ai/yongchoe/251c0301-3570-4065-85fd-aa02bea7b7c5/index.html</link>
+            <guid isPermaLink="false">251c0301-3570-4065-85fd-aa02bea7b7c5</guid>
+            <pubDate>Mon, 04 Apr 2016 16:14:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd1b155d-bdca-480a-b657-08c5c1bb4cf7.jpg">]]></description>
-            <link>undefinedbdbe833d-984b-422e-bdb3-ff50fdef9857/index.html</link>
+            <link>https://thegrid.ai/yongchoe/bdbe833d-984b-422e-bdb3-ff50fdef9857/index.html</link>
             <guid isPermaLink="false">bdbe833d-984b-422e-bdb3-ff50fdef9857</guid>
             <pubDate>Mon, 04 Apr 2016 16:11:18 GMT</pubDate>
         </item>
